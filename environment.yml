@@ -41,7 +41,8 @@ dependencies:
   - tornado=6.1
   - traitlets=5.1.1=pyhd3eb1b0_0
   - tzdata=2022a=hda174b7_0
-  - vc-14.2-hc4473a8_6
+  - vc-14.1-h869be7e_1
+  - vc-14.1-h21ff451_1
   - vs2015_runtime-14.27.29016-h5e58377_2
   - wcwidth=0.2.5=pyhd3eb1b0_0
   - wheel=0.37.1=pyhd3eb1b0_0
