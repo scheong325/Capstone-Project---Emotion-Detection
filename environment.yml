@@ -9,7 +9,7 @@ dependencies:
   - openssl
   - matplotlib-inline
   - setuptools
-  - vc
+  #- vc
   - nest-asyncio
   - pygments
   - jupyter_client
@@ -22,7 +22,7 @@ dependencies:
   - pywin32
   - six
   - pure_eval
-  - vs2015_runtime
+  #- vs2015_runtime
   - tornado
   - traitlets
   - wheel
@@ -35,7 +35,6 @@ dependencies:
   - ca-certificates
   - ipython
   - parso
-  - wincertstore
   - xz
   - backcall
   - executing
