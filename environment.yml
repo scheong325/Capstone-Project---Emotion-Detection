@@ -2,6 +2,7 @@ name: tf
 channels:
   - conda-forge
   - defaults
+  - conda-forge/label/broken
 dependencies:
   - asttokens=2.0.5
   - backcall=0.2.0
@@ -47,7 +48,6 @@ dependencies:
   - vs2015_runtime
   - wcwidth=0.2.5
   - wheel=0.37.1
-  - wincertstore
   - xz=5.2.5
   - zeromq=4.3.4
   - zlib=1.2.12
